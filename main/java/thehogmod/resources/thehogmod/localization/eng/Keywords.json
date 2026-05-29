@@ -1,0 +1,95 @@
+[
+  {
+    "PROPER_NAME": "Reckless",
+    "NAMES": [
+      "reckless"
+    ],
+    "DESCRIPTION": "Alternately increase and reduce the cost of each card in your hand in a random order by #b1 this turn. The first card's cost is always increased."
+  },
+  {
+    "PROPER_NAME": "Stun",
+    "NAMES": [
+      "stun",
+      "stunned"
+    ],
+    "DESCRIPTION": "Stunned enemies skip their turn."
+  },
+  {
+    "PROPER_NAME": "Scrap Armor",
+    "NAMES": [
+      "scrap armor",
+      "scrap_armor"
+    ],
+    "DESCRIPTION": "Reduce the next instance of unblocked attack damage taken and deal damage back to the attacker."
+  },
+  {
+    "PROPER_NAME": "Heat",
+    "NAMES": [
+      "heat"
+    ],
+    "DESCRIPTION": "Whenever an enemy is targeted with an #yIgnite card, deal damage to it equal to your Heat and reduce Heat. Each turn, Heat is reduced by #b1."
+  },
+  {
+    "PROPER_NAME": "Ignite",
+    "NAMES": [
+      "ignite",
+      "ignited",
+      "ignition",
+      "ignites",
+      "igniting"
+    ],
+    "DESCRIPTION": "Deal damage to the target equal to your #yHeat amount. Then #yHeat is reduced by #b1 for each time you Ignited."
+  },
+  {
+    "ID": "laceration",
+    "PROPER_NAME": "Laceration",
+    "NAMES": [
+      "laceration",
+      "lacerations",
+      "lacerated"
+    ],
+    "DESCRIPTION": "Whenever you apply Laceration to an enemy, it loses HP. Enemy #rdies at the start of its turn, if its Laceration is equal to or greater than its HP."
+  },
+  {
+    "PROPER_NAME": "Oiled",
+    "NAMES": [
+      "oil",
+      "oiled"
+    ],
+    "DESCRIPTION": "Enemies take #b50% more damage from #yIgnite."
+  },
+  {
+    "PROPER_NAME": "Fright",
+    "ID": "fright",
+    "NAMES": [
+      "fright",
+      "frightened"
+    ],
+    "DESCRIPTION": "Gain #yBlock whenever you attack a Frightened enemy. Fright is removed when the enemy attacks."
+  },
+  {
+    "PROPER_NAME": "Scrap",
+    "ID": "scrap",
+    "NAMES": [
+      "scrap",
+      "scrapped",
+      "scrapping"
+    ],
+    "DESCRIPTION": "#yExhaust a card. Gain #yScrap #yArmor equal to the Scrapped card’s cost."
+  },
+  {
+    "PROPER_NAME": "Poise",
+    "NAMES": [
+      "poise"
+    ],
+    "DESCRIPTION": "Increase #yReckless cards' attack damage and #yBlock effectiveness. Whenever you play a #yReckless card, Poise is reduced by #b1."
+  },
+  {
+    "PROPER_NAME": "Intensity",
+    "ID": "intensity",
+    "NAMES": [
+      "intensity"
+    ],
+    "DESCRIPTION": "Intensity adds additional damage to #yIgnite. You cannot #yIgnite without #yHeat."
+  }
+]

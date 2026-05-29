@@ -1,0 +1,27 @@
+{
+  "${modID}:LacerationStartOfTurnAction": {
+    "TEXT": [
+      "DEAD"
+    ]
+  },
+  "${modID}:ScrapAction": {
+    "TEXT": [
+      "Scrap"
+    ]
+  },
+  "IgniteCardFromExhaustToHandAction": {
+    "TEXT": [
+      "Put into Your Hand."
+    ]
+  },
+  "${modID}:ScrapTopCardAction": {
+    "TEXT": [
+      "Choose a Card to Scrap."
+    ]
+  },
+  "${modID}:RecklessAction": {
+    "TEXT": [
+      "Set Cost to 0 This Turn"
+    ]
+  }
+}

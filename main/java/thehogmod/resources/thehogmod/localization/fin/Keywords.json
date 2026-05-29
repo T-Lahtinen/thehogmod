@@ -1,0 +1,113 @@
+[
+  {
+    "PROPER_NAME": "Holtiton",
+    "NAMES": [
+      "holtiton",
+      "holtittomia",
+      "holtittomuudesta",
+      "holtittomuus",
+      "holtitonta",
+      "holtittoman",
+      "holtittomuuden"
+    ],
+    "DESCRIPTION": "Vuorotellen nosta ja laske jokaisen kädessäsi olevan kortin hintaa #b1:llä tällä vuorolla. Ensimmäisen kortin hinta nousee aina."
+  },
+  {
+    "PROPER_NAME": "Tyrmää",
+    "NAMES": [
+      "tyrmää",
+      "tyrmätty"
+    ],
+    "DESCRIPTION": "Tyrmätyt viholliset ohittavat vuoronsa."
+  },
+  {
+    "PROPER_NAME": "Romupanssari",
+    "NAMES": [
+      "romupanssari",
+      "romupanssaria",
+      "romupanssarisi",
+      "romupanssarin",
+      "romupanssarilla"
+    ],
+    "DESCRIPTION": "Vähennä seuraavaa kertaa kun vastaanotat torjumatonta hyökkäysvauriota ja tee vauriota takaisin hyökkääjään."
+  },
+  {
+    "PROPER_NAME": "Lämpö",
+    "NAMES": [
+      "lämpö",
+      "lämpöä",
+      "lämpösi"
+    ],
+    "DESCRIPTION": "Kun kohdistat #ySytytyskortin viholliseen, tee vauriota Lämpömääräsi verran ja vähennä Lämpöä. Lämpö vähenee joka vuorolla #b1:llä."
+  },
+  {
+    "PROPER_NAME": "Sytytä",
+    "NAMES": [
+      "sytytä",
+      "sytytät"
+    ],
+    "DESCRIPTION": "Tee vauriota #yLämpömääräsi verran. Vähennä #yLämpöä #b1:llä jokaisesta Sytytyksestä."
+  },
+  {
+    "ID": "Viiltohaava",
+    "PROPER_NAME": "Viiltohaava",
+    "NAMES": [
+      "viiltohaava",
+      "viiltohaavaa",
+      "viiltohaavansa"
+    ],
+    "DESCRIPTION": "Kun asetat Viiltohaavaa viholliseen, se menettää OP:tä. Vihollinen #rkuolee vuoronsa alussa, jos sen Viiltohaava on yhtäsuuri tai suurempi kuin OP."
+  },
+  {
+    "PROPER_NAME": "Öljytty",
+    "NAMES": [
+      "Öljy",
+      "Öljyä",
+      "öljytty",
+      "öljyttyä"
+    ],
+    "DESCRIPTION": "Viholliset vastaanottavat #b50% enemmän vauriota #ySytytyksestä."
+  },
+  {
+    "PROPER_NAME": "Pelko",
+    "ID": "pelko",
+    "NAMES": [
+      "pelko",
+      "pelkoa",
+      "pelokas",
+      "pelosta"
+    ],
+    "DESCRIPTION": "Saa #ySuojaa kun hyökkäät Pelokasta vihollista. Pelko poistetaan kun vihollinen hyökkää."
+  },
+  {
+    "PROPER_NAME": "Romuta",
+    "ID": "romuta",
+    "NAMES": [
+      "romuta",
+      "romutat",
+      "romutettu",
+      "romuttaa",
+      "romutettu",
+      "romutetusta"
+    ],
+    "DESCRIPTION": "#yKuluta kortti. Saa #yRomusuojaa Romutetun kortin hinnan verran."
+  },
+  {
+    "PROPER_NAME": "Kuri",
+    "NAMES": [
+      "kuri",
+      "kuria",
+      "kurin"
+    ],
+    "DESCRIPTION": "Parantaa #yHoltittomien korttien hyökkäysvauriota ja #ySuojan tehokkuutta. Kun pelaat #yHoltittoman kortin, Kuri vähenee #b1:llä."
+  },
+  {
+    "PROPER_NAME": "Intensiteetti",
+    "ID": "intensiteetti",
+    "NAMES": [
+      "intensiteetti",
+      "intensiteettiä"
+    ],
+    "DESCRIPTION": "Intensiteetti parantaa #ySytytyskorttien vauriota. Et voi #ySytyttää ilman #yLämpöä."
+  }
+]
