@@ -1,0 +1,337 @@
+{
+  "${modID}:Annihilate": {
+    "NAME": "Täystuho",
+    "DESCRIPTION": "Tee !D! vauriota 3 kertaa. Kun teet torjumatonta vauriota, vihollinen menettää 1 Vahvuutta. Kuluta."
+  },
+  "${modID}:Arsonist": {
+    "NAME": "Tuhopolttaja",
+    "DESCRIPTION": "Saa !M! ${modID}:Lämpöä. NL Lisää vuorosi alussa *Ruutipommi käteesi."
+  },
+  "${modID}:BareBonesBlock": {
+    "NAME": "Puilla Paljailla",
+    "DESCRIPTION": "Jos sinulla ei ole Suojaa, saa !B! Suojaa ja !M! ${modID}:Kuria."
+  },
+  "${modID}:Batter": {
+    "NAME": "Piekse",
+    "DESCRIPTION": "Tee !D! vauriota kahdesti. NL Jos vihollisella ei ole Suojaa, tee !D! vauriota vielä kerran."
+  },
+  "${modID}:BendAndBreak": {
+    "NAME": "Taivuta Tahtoosi",
+    "DESCRIPTION": "${modID}:Holtiton. NL ${modID}:Holtittomuus laskee aina tämän kortin hintaa. Tee !D! vauriota. Lisää !M! Heikkoutta."
+  },
+  "${modID}:BlazingBlades": {
+    "NAME": "Loimuava Terä",
+    "DESCRIPTION": "Saa !M! ${modID}:Lämpöä. NL Kun pelaat tällä vuorolla Hyökkäyksen, ${modID}:Sytytä satunnainen vihollinen."
+  },
+  "${modID}:Bloodlust": {
+    "NAME": "Verenhimo",
+    "DESCRIPTION": "Kun lisäät ${modID}:Viiltohaavaa, vihollinen menettää OP:tä lisäkerran."
+  },
+  "${modID}:BloodyCleavers": {
+    "NAME": "Veriset Veitset",
+    "DESCRIPTION": "Tee !D! vauriota kahdesti. NL Kun teet torjumatonta vauriota, lisää !M! ${modID}:Viiltohaava.",
+    "UPGRADE_DESCRIPTION": "Tee !D! vauriota kahdesti. NL Kun teet torjumatonta vauriota, lisää !M! ${modID}:Viiltohaavaa."
+  },
+  "${modID}:BoneCrusher": {
+    "NAME": "Luumurskain",
+    "DESCRIPTION": "${modID}:Holtiton. NL Tee !D! vauriota. NL Jos tämä tappaa vihollisen, ${modID}:Tyrmää KAIKKI viholliset."
+  },
+  "${modID}:BrandingIron": {
+    "NAME": "Poltinrauta",
+    "DESCRIPTION": "Tee !D! vauriota. NL Lisää 2 ${modID}:Pelkoa. NL Lisää !M! ${modID}:Öljyttyä."
+  },
+  "${modID}:Brawl": {
+    "NAME": "Nujakoi",
+    "DESCRIPTION": "Tee !D! vauriota kahdesti. NL Lisää *Väsymys käteesi."
+  },
+  "${modID}:Bulldoze": {
+    "NAME": "Jyrää Yli",
+    "DESCRIPTION": "${modID}:Holtiton. NL Saa !B! Suojaa ja tee !D! vauriota X kertaa."
+  },
+  "${modID}:Butchery": {
+    "NAME": "Teurasta",
+    "DESCRIPTION": "${modID}:Holtiton. NL Tee !D! vauriota ja lisää !${modID}:e! ${modID}:Viiltohaavaa satunnaiselle viholliselle !M! kertaa."
+  },
+  "${modID}:Cauterize": {
+    "NAME": "Kauterisoi",
+    "DESCRIPTION": "Lisää 3 ${modID}:Pelkoa. NL Kun vihollinen kuolee, paranna !M! OP:tä ja ${modID}:Sytytä KAIKKI viholliset. Kuluta."
+  },
+  "${modID}:Cleanse": {
+    "NAME": "Luovu Liiasta",
+    "DESCRIPTION": "${modID}:Romuta kätesi. NL Tuplaa ${modID}:Romupanssarisi. NL Kuluta."
+  },
+  "${modID}:CloseDown": {
+    "NAME": "Jahtaa",
+    "DESCRIPTION": "Lisää !M! Alttiutta. NL Saa !B! Suojaa. NL Lisää *Väsymys käteesi."
+  },
+  "${modID}:Composed": {
+    "NAME": "Maltillinen",
+    "DESCRIPTION": "Saa 1 ${modID}:Kuri vuorosi alussa.",
+    "UPGRADE_DESCRIPTION": "Saa !M! ${modID}:Kuria. NL Saa 1 ${modID}:Kuri vuorosi alussa."
+  },
+  "${modID}:Cruelty": {
+    "NAME": "Julmuus",
+    "DESCRIPTION": "Kun lisäät haitan viholliselle, saa !M! Suojaa."
+  },
+  "${modID}:CutOpen": {
+    "NAME": "Viillä Auki",
+    "DESCRIPTION": "Tee !D! vauriota. NL Lisää !M! ${modID}:Viiltohaavaa KAIKILLE vihollisille."
+  },
+  "${modID}:Defend": {
+    "NAME": "Puolusta",
+    "DESCRIPTION": "Saa !B! Suojaa."
+  },
+  "${modID}:Delirium": {
+    "NAME": "Kukkulan Kuningas",
+    "DESCRIPTION": "Vuorosi alussa, nosta !M! korttia ja lisää *Väsymys poistopinoosi."
+  },
+  "${modID}:DoubleDown": {
+    "NAME": "Tupla tai Kuitti",
+    "DESCRIPTION": "Tee !D! vauriota. NL Lisää !M! tämän kortin vaurioon ja nosta hintaa 1 taistelun ajaksi."
+  },
+  "${modID}:Dread": {
+    "NAME": "Kauhu",
+    "DESCRIPTION": "Lisää !M! ${modID}:Pelkoa KAIKILLE vihollisille. NL KAIKKI viholliset menettävät !${modID}:e! Vahvuutta. Kuluta."
+  },
+  "${modID}:Endure": {
+    "NAME": "Kestä Kärsimys",
+    "DESCRIPTION": "Saa !M! ${modID}:Kuria. NL Saa !${modID}:e! ${modID}:Romupanssaria. NL Lisää *Väsymys käteesi."
+  },
+  "${modID}:Explosives": {
+    "NAME": "Räjähteet",
+    "DESCRIPTION": "Saa ${modID}:Lämpöä kunnes sinulla on 6 ${modID}:Lämpöä. NL Lisää !M! *Ruutipommia käteesi."
+  },
+  "${modID}:Expose": {
+    "NAME": "Saata alttiiksi",
+    "DESCRIPTION": "Poista viholliselta kaikki Suoja. NL Lisää !M! Alttiutta. NL Kuluta."
+  },
+  "${modID}:FanTheFlames": {
+    "NAME": "Lietso Liekkiä",
+    "DESCRIPTION": "Kun pelaat *Ruutipommin, nosta !M! kortti.",
+    "UPGRADE_DESCRIPTION": "Kun pelaat *Ruutipommin, nosta !M! korttia."
+  },
+  "${modID}:Fatigue": {
+    "NAME": "Väsymys",
+    "DESCRIPTION": "Vuorosi lopussa, nosta tämän kortin hintaa 1. NL Kuluta."
+  },
+  "${modID}:Ferocity": {
+    "NAME": "Raivokkuus",
+    "DESCRIPTION": "Aina kun ${modID}:Holtittomuus nostaa 5 kortin hintaa, saa !M! Vahvuus."
+  },
+  "${modID}:Fervor": {
+    "NAME": "Intohimo",
+    "DESCRIPTION": "Saa !M! ${modID}:Lämpöä. NL Nosta 1 kortti. NL Seuraavalla vuorolla, saa !M! ${modID}:Lämpöä ja nosta 1 kortti."
+  },
+  "${modID}:FesteringWounds": {
+    "NAME": "Märkivät Ruhjeet",
+    "DESCRIPTION": "Saa !B! Suojaa. NL Lisää !M! ${modID}:Viiltohaavaa satunnaiselle viholliselle.",
+    "UPGRADE_DESCRIPTION": "Saa !B! Suojaa. NL Lisää !M! ${modID}:Viiltohaavaa KAIKILLE vihollisille."
+  },
+  "${modID}:FirmGrip": {
+    "NAME": "Vankka Ote",
+    "DESCRIPTION": "Saa !${modID}:e! ${modID}:Kuria. NL Seuraava ${modID}:Holtiton kortti pelataan kahdesti tällä vuorolla.",
+    "UPGRADE_DESCRIPTION": "Saa !${modID}:e! ${modID}:Kuria. NL Seuraavat !M! ${modID}:Holtitonta korttia pelataan kahdesti tällä vuorolla."
+  },
+  "${modID}:FlamingFist": {
+    "NAME": "Liekehtivä Nyrkki",
+    "DESCRIPTION": "Saa !M! ${modID}:Lämpöä. NL Tee !D! vauriota. NL Lisää *Ruutipommi käteesi.",
+    "UPGRADE_DESCRIPTION": "Saa !M! ${modID}:Lämpöä. NL Tee !D! vauriota. NL Lisää *Ruutipommi+ käteesi."
+  },
+  "${modID}:FlashPowder": {
+    "NAME": "Ruutipommi",
+    "DESCRIPTION": "${modID}:Sytytä. NL Kuluta.",
+    "UPGRADE_DESCRIPTION": "${modID}:Sytytä vähentämättä ${modID}:Lämpöä. NL Kuluta.",
+    "EXTENDED_DESCRIPTION": [
+      "${modID}:Sytytä !M! vauriota. NL Kuluta.",
+      "${modID}:Sytytä !M! vauriota vähentämättä ${modID}:Lämpöä. NL Kuluta."
+    ]
+  },
+  "${modID}:Fortitude": {
+    "NAME": "Luonteenlujuus",
+    "DESCRIPTION": "Saa !B! Suojaa. NL ${modID}:Romuta 1 kortti. NL Jos se on *Status kortti, saa !B! Suojaa uudestaan."
+  },
+  "${modID}:Frenzy": {
+    "NAME": "Kiihkomuoto",
+    "DESCRIPTION": "Saa 5 ${modID}:Kuria. NL Kun menetät kaiken ${modID}:Kurin, saa !M! ${modID}:Kuria. NL KAIKKI Hyökkäykset ovat ${modID}:Holtittomia."
+  },
+  "${modID}:HackAndSlash": {
+    "NAME": "Hakkaa Raivolla",
+    "DESCRIPTION": "${modID}:Holtiton. NL Saa !B! Suojaa ja tee !D! vauriota per kortti jonka hinta nousi tämän myötä."
+  },
+  "${modID}:HarvesterOfPain": {
+    "NAME": "Kivunkorjuu",
+    "DESCRIPTION": "Kun ${modID}:Romutat tai nostat *Status kortin, nosta !M! kortti."
+  },
+  "${modID}:Heatstroke": {
+    "NAME": "Lämpöhalvaus",
+    "DESCRIPTION": "Saa !B! Suojaa. NL Saa 5 ${modID}:Lämpöä. NL Lisää *Ruutipommi käteesi.",
+    "UPGRADE_DESCRIPTION": "Saa !B! Suojaa. NL Saa 5 ${modID}:Lämpöä. NL Lisää !M! *Ruutipommia käteesi."
+  },
+  "${modID}:Hemorrhage": {
+    "NAME": "Vuodata Kuiviin",
+    "DESCRIPTION": "Lisää !M! ${modID}:Viiltohaavaa. NL Vihollinen menettää OP:tä ${modID}:Viiltohaavansa verran. NL Kuluta."
+  },
+  "${modID}:Hew": {
+    "NAME": "Paloittele",
+    "DESCRIPTION": "Tee !D! vauriota. NL ${modID}:Romuta kortti poistopinossasi."
+  },
+  "${modID}:HotHog": {
+    "NAME": "Kuuma Karju",
+    "DESCRIPTION": "Saa !M! ${modID}:Lämpöä. NL Saa !M! ${modID}:Intensiteettiä."
+  },
+  "${modID}:Impale": {
+    "NAME": "Lävistä",
+    "DESCRIPTION": "Tee !D! vauriota ja lisää !M! ${modID}:Viiltohaavaa KAIKILLE vihollisille."
+  },
+  "${modID}:Lesion": {
+    "NAME": "Ruhje",
+    "DESCRIPTION": "Lisää !M! ${modID}:Viiltohaavaa."
+  },
+  "${modID}:Mangle": {
+    "NAME": "Silvo",
+    "DESCRIPTION": "Lisää !M! ${modID}:Viiltohaavaa ja 1 Heikkoutta X kertaa. NL Kuluta."
+  },
+  "${modID}:MolotovCocktail": {
+    "NAME": "Molotov Cocktail",
+    "DESCRIPTION": "Saa !${modID}:e! ${modID}:Lämpöä. NL ${modID}:Sytytä KAIKKI viholliset. NL Kuluta.",
+    "EXTENDED_DESCRIPTION": [
+      "Saa !${modID}:e! ${modID}:Lämpöä. NL ${modID}:Sytytä !M! vahinkoa KAIKILLE vihollisille. NL Kuluta."
+    ]
+  },
+  "${modID}:OilFlask": {
+    "NAME": "Öljypullo",
+    "DESCRIPTION": "Lisää !M! ${modID}:Öljyttyä ja Alttiutta KAIKILLE vihollisille. NL Kuluta."
+  },
+  "${modID}:Onslaught": {
+    "NAME": "Päällekarkaus",
+    "DESCRIPTION": "Tee !D! vauriota. NL Lisää !M! ${modID}:Pelkoa KAIKILLE vihollisille."
+  },
+  "${modID}:Outrage": {
+    "NAME": "Kiihko",
+    "DESCRIPTION": "Tee !D! vauriota. NL Jos ${modID}:Holtittomuus nostaa tämän kortin hintaa tällä vuorolla, tee tripla vauriota."
+  },
+  "${modID}:Overheat": {
+    "NAME": "Ylikuumene",
+    "DESCRIPTION": "${modID}:Sytytä satunnainen vihollinen !${modID}:e! kertaa vähentämättä ${modID}:Lämpöä. NL Kuluta.",
+    "EXTENDED_DESCRIPTION": [
+      "${modID}:Sytytä !M! vauriota satunnaiselle viholliselle !${modID}:e! kertaa vähentämättä ${modID}:Lämpöä. NL Kuluta."
+    ]
+  },
+  "${modID}:Pulverize": {
+    "NAME": "Raasta Tomuksi",
+    "DESCRIPTION": "Tee !D! vauriota. NL ${modID}:Romuta 1 kortti. NL Tee !D! vauriota uudestaan jokaista sen [E] hintaa kohden."
+  },
+  "${modID}:Pyromania": {
+    "NAME": "Pyromania",
+    "DESCRIPTION": "Saa !M! ${modID}:Lämpöä. NL Vähennä tämän kortin ${modID}:Lämpöä 1 verran taistelun ajaksi. NL Lisää 2 *Ruutipommia käteesi."
+  },
+  "${modID}:Ransack": {
+    "NAME": "Ryöstä",
+    "DESCRIPTION": "Tee !D! vauriota satunnaiselle viholliselle 3 kertaa. Saa !M! *Kultaa per osuma eri viholliseen. NL Kuluta."
+  },
+  "${modID}:Ravage": {
+    "NAME": "Perikato",
+    "DESCRIPTION": "Tee !D! vauriota. NL Kun ${modID}:Romutat tämän kortin, lisää !M! sen vaurioon ja lisää kopio siitä poistopinoosi."
+  },
+  "${modID}:Razorhide": {
+    "NAME": "Teränahka",
+    "DESCRIPTION": "Saa 3 ${modID}:Romupanssaria. NL ${modID}:Romupanssari tekee vauriota yhden lisäkerran.",
+    "UPGRADE_DESCRIPTION": "Saa 3 ${modID}:Romupanssaria. NL ${modID}:Romupanssari tekee vauriota !M! lisäkertaa."
+  },
+  "${modID}:RendAndTear": {
+    "NAME": "Riistä ja Raasta",
+    "DESCRIPTION": "${modID}:Romuta kaikki kortit paitsi Hyökkäykset kädestäsi. Tee !D! vauriota KAIKILLE vihollisille."
+  },
+  "${modID}:Repulse": {
+    "NAME": "Karkota",
+    "DESCRIPTION": "Saa !B! Suojaa. NL Lisää !M! ${modID}:Pelkoa KAIKILLE vihollisille."
+  },
+  "${modID}:Retool": {
+    "NAME": "Hajota ja Hallitse",
+    "DESCRIPTION": "${modID}:Romuta 1 kortti. NL Parantele ja lisää !M! kopiota ${modID}:Romutetusta kortista käteesi. NL Kuluta."
+  },
+  "${modID}:RiskyManeuver": {
+    "NAME": "Riskiliike",
+    "DESCRIPTION": "${modID}:Holtiton. NL Nosta !M! kortti.",
+    "UPGRADE_DESCRIPTION": "${modID}:Holtiton. NL Nosta !M! korttia."
+  },
+  "${modID}:RushOfBlood": {
+    "NAME": "Verenpurkaus",
+    "DESCRIPTION": "Kun menetät ${modID}:Kuria, lisää !M! ${modID}:Viiltohaavaa KAIKILLE vihollisille."
+  },
+  "${modID}:Scorch": {
+    "NAME": "Kärvennä",
+    "DESCRIPTION": "${modID}:Sytytä kahdesti. NL Jos olet saanut ${modID}:Lämpöä tällä vuorolla, saa !${modID}:e! ${modID}:Intensiteettiä.",
+    "EXTENDED_DESCRIPTION": [
+      "${modID}:Sytytä !M! vauriota kahdesti. Jos olet saanut ${modID}:Lämpöä tällä vuorolla, saa !${modID}:e! ${modID}:Intensiteettiä."
+    ]
+  },
+  "${modID}:ShoulderBarge": {
+    "NAME": "Ryntäys",
+    "DESCRIPTION": "Tee !D! vauriota. NL Seuraavat !M! kertaa kun hyökkäät tähän viholliseen, nosta 1 kortti."
+  },
+  "${modID}:SlicingStrike": {
+    "NAME": "Viiltävä Isku",
+    "DESCRIPTION": "Tee !D! vauriota. NL Tekee lisävauriota ${modID}:Romupanssarisi verran."
+  },
+  "${modID}:StareDown": {
+    "NAME": "Tuima Tuijotus",
+    "DESCRIPTION": "Lisää !M! ${modID}:Pelkoa. NL Jos vihollinen aikoo hyökätä, lisää !${modID}:e! Heikkoutta."
+  },
+  "${modID}:Strike": {
+    "NAME": "Isku",
+    "DESCRIPTION": "Tee !D! vauriota."
+  },
+  "${modID}:StrikeDown": {
+    "NAME": "Julma Isku",
+    "DESCRIPTION": "Tee !D! vauriota jokaista vihollisen uniikkia haittaa kohtaan."
+  },
+  "${modID}:Subterfuge": {
+    "NAME": "Hämäys",
+    "DESCRIPTION": "${modID}:Holtiton. NL Valitse kortti jonka hinta nousi. Se maksaa 0 tämän vuoron. NL Kuluta."
+  },
+  "${modID}:Tenacity": {
+    "NAME": "Sisu",
+    "DESCRIPTION": "Kun ${modID}:Holtittomuus nostaa kortin hintaa, saa !M! Suojaa."
+  },
+  "${modID}:ThickSkinned": {
+    "NAME": "Paksunahka",
+    "DESCRIPTION": "Saa !${modID}:e! ${modID}:Romupanssaria. NL Estää seuraavan kerran kun menetät ${modID}:Romupanssarin. NL Kuluta."
+  },
+  "${modID}:ThinkTwice": {
+    "NAME": "Pohdi",
+    "DESCRIPTION": "Saa 2 ${modID}:Kuria. NL Nosta !M! kortti. NL Saa [E] seuraavalla vuorolla.",
+    "UPGRADE_DESCRIPTION": "Saa 2 ${modID}:Kuria. NL Nosta !M! korttia. NL Saa [E] seuraavalla vuorolla."
+  },
+  "${modID}:Thrill": {
+    "NAME": "Taistelun Huuma",
+    "DESCRIPTION": "${modID}:Holtiton. NL Saa !B! Suojaa. NL Saa !M! Vahvuutta. NL Menetä !M! Vahvuutta vuoron lopussa."
+  },
+  "${modID}:Thwart": {
+    "NAME": "Nujerra",
+    "DESCRIPTION": "Tee !D! vauriota. NL Nosta 1 kortti jokaista vihollisen uniikkia haittaa kohtaan."
+  },
+  "${modID}:Torment": {
+    "NAME": "Kärsimys",
+    "DESCRIPTION": "Lisää !M! ${modID}:Pelkoa. NL Kun saat Suojaa tällä vuorolla, tee !${modID}:e! vauriota viholliselle."
+  },
+  "${modID}:UnleashAgony": {
+    "NAME": "Tuskan Purkaus",
+    "DESCRIPTION": "Tee !D! vauriota KAIKILLE vihollisille kahdesti. NL Lisää *Tyhjyys poistopinoosi."
+  },
+  "${modID}:Unwavering": {
+    "NAME": "Järkkymätön",
+    "DESCRIPTION": "Nosta !${modID}:e! korttia. NL Jos ${modID}:Holtittomuus muuttaa tämän kortin hintaa, saa [E] ja poista se.",
+    "UPGRADE_DESCRIPTION": "Nosta !${modID}:e! korttia. NL Jos ${modID}:Holtittomuus muuttaa tämän kortin hintaa, saa [E] [E] ja poista se."
+  },
+  "${modID}:Unyielding": {
+    "NAME": "Peräänantamaton",
+    "DESCRIPTION": "Lisää satunnaisia kortteja käteesi kunnes kätesi on täynnä. NL ${modID}:Romuta !M! korttia. NL Kuluta.",
+    "UPGRADE_DESCRIPTION": "Lisää satunnaisia kortteja käteesi kunnes kätesi on täynnä. NL ${modID}:Romuta korkeintaan !M! korttia. NL Kuluta."
+  },
+  "${modID}:ViolentOutburst": {
+    "NAME": "Vihan Purkaus",
+    "DESCRIPTION": "Saa [E] [E]. NL Nosta 3 korttia. NL ${modID}:Romuta kaikki kortit paitsi Hyökkäykset kädestäsi. Kuluta.",
+    "UPGRADE_DESCRIPTION": "Saa [E] [E] [E]. NL Nosta 3 korttia. NL ${modID}:Romuta kaikki kortit paitsi Hyökkäykset kädestäsi. Kuluta."
+  }
+}

@@ -1,0 +1,219 @@
+{
+  "${modID}:Arsonist": {
+    "NAME": "Tuhopolttaja",
+    "DESCRIPTIONS": [
+      "Vuorosi alussa, lisää #b",
+      " #yRuutipommi käteesi.",
+      " #yRuutipommia käteesi."
+    ]
+  },
+  "${modID}:Bloodlust": {
+    "NAME": "Verenhimo",
+    "DESCRIPTIONS": [
+      "Kun lisäät #yViiltohaavaa, vihollinen menettää OP:tä lisäkerran.",
+      "Kun lisäät #yViiltohaavaa, vihollinen menettää OP:tä #b",
+      " lisäkertaa."
+    ]
+  },
+  "${modID}:Cauterize": {
+    "NAME": "Kauterisoi",
+    "DESCRIPTIONS": [
+      "Kuollessaan, sinä parannat #b",
+      " OP:tä ja #ySytytät KAIKKI viholliset."
+    ]
+  },
+  "${modID}:ScrapArmor": {
+    "NAME": "Romupanssari",
+    "DESCRIPTIONS": [
+      "Seuraavan kerran kun vastaanotat torjumatonta hyökkäysvahinkoa, vähennä sitä #b",
+      " ja tee #b",
+      " vauriota takaisin."
+    ]
+  },
+  "${modID}:Poise": {
+    "NAME": "Kuri",
+    "DESCRIPTIONS": [
+      "Tehostaa #yHoltittomien korttien hyökkäysvauriota ja saatavaa #ySuojaa #b",
+      ":lla. Vähenee #b1:llä kun pelaat #yHoltittoman kortin."
+    ]
+  },
+  "${modID}:ExtraCardReward": {
+    "NAME": "Extra Card Reward",
+    "DESCRIPTIONS": [
+      "At the end of combat, gain an additional card reward.",
+      "At the end of combat, gain an additional #b",
+      " card rewards."
+    ]
+  },
+  "${modID}:FanTheFlames": {
+    "NAME": "Lietso Liekkiä",
+    "DESCRIPTIONS": [
+      "Kun pelaat #yRuutipommin, nosta #b",
+      " kortti.",
+      " korttia."
+    ]
+  },
+  "${modID}:BlazingBlades": {
+    "NAME": "Loimuava Terä",
+    "DESCRIPTIONS": [
+      "Kun pelaat tällä vuorolla #yHyökkäyksen, #ySytytä satunnainen vihollinen.",
+      "Kun pelaat tällä vuorolla #yHyökkäyksen, #ySytytä satunnainen vihollinen #b",
+      " kertaa."
+    ]
+  },
+  "${modID}:Fatigue": {
+    "NAME": "Väsymys",
+    "DESCRIPTIONS": [
+      "Vuorosi alussa, lisää #b",
+      " #yVäsymys poistopinoosi.",
+      " #yVäsymystä poistopinoosi."
+    ]
+  },
+  "${modID}:ThickSkinned": {
+    "NAME": "Paksunahka",
+    "DESCRIPTIONS": [
+      "Estää seuraavan kerran kun menetät #yRomupanssarin.",
+      "Estää seuraavat #b",
+      " kertaa kun menetät #yRomupanssarin."
+    ]
+  },
+  "${modID}:Ferocity": {
+    "NAME": "Raivokkuus",
+    "DESCRIPTIONS": [
+      "Kun #yHoltittomuus nostaa vielä #b",
+      " kortin hintaa, saa #b",
+      " #yVahvuutta.",
+      " kortin hintaa, saa #b"
+    ]
+  },
+  "${modID}:Fervor": {
+    "NAME": "Seuraavan Vuoron Lämpö.",
+    "DESCRIPTIONS": [
+      "Seuraavalla vuorolla, saa #b",
+      " #yLämpöä."
+    ]
+  },
+  "${modID}:Frenzy": {
+    "NAME": "Kiihkomuoto",
+    "DESCRIPTIONS": [
+      "Kun menetät kaiken #yKurin, saa #b",
+      " #yKuria. KAIKKI #yHyökkäykset ovat #yHoltittomia."
+    ]
+  },
+  "${modID}:Fright": {
+    "NAME": "Pelokas",
+    "DESCRIPTIONS": [
+      "Kun hyökättynä, sinä saat #b",
+      " #ySuojaa. Pelko poistuu kun vihollinen hyökkää."
+    ]
+  },
+  "${modID}:Torment": {
+    "NAME": "Kärsimys",
+    "DESCRIPTIONS": [
+      "Kun sinä saat #ySuojaa tällä vuorolla, vastaanottaa #b",
+      " vauriota."
+    ]
+  },
+  "${modID}:TormentInvisible": {
+    "NAME": "Kärsimys Näkymätön",
+    "DESCRIPTIONS": [
+      "This should not be visible."
+    ]
+  },
+  "${modID}:HarvesterOfPain": {
+    "NAME": "Kivunkorjuu",
+    "DESCRIPTIONS": [
+      "Kun #yRomutat tai nostat #yStatus kortin, nosta #b",
+      " kortti.",
+      " korttia."
+    ]
+  },
+  "${modID}:Razorhide": {
+    "NAME": "Teränahka",
+    "DESCRIPTIONS": [
+      "#yRomupanssari tekee vauriota #b",
+      " lisäkerran.",
+      "#yRomupanssari tekee vauriota #b",
+      " lisäkertaa."
+    ]
+  },
+  "${modID}:Cruelty": {
+    "NAME": "Julmuus",
+    "DESCRIPTIONS": [
+      "Kun lisäät viholliseen haitan, saa #b",
+      " #ySuojaa."
+    ]
+  },
+  "${modID}:Heat": {
+    "NAME": "Lämpö",
+    "DESCRIPTIONS": [
+      "Kun kohdistat #ySytytyskortin viholliseen, tee #b",
+      " vauriota siihen. #yLämpö vähenee joka vuorolla #b1:llä."
+    ]
+  },
+  "${modID}:HogEnergized": {
+    "NAME": "Lisätarmoa",
+    "DESCRIPTIONS": [
+      "Saa #b",
+      " [E] lisää seuraavalla vuorolla.",
+      " [E] lisää seuraavalla vuorolla.",
+      " - TRANSLATOR NOTE: - The above line is for plural if needed to distinguish from singular."
+    ]
+  },
+  "${modID}:Intensity": {
+    "NAME": "Intensiteetti",
+    "DESCRIPTIONS": [
+      "#ySytytys tekee #b",
+      " lisävauriota."
+    ]
+  },
+  "${modID}:Laceration": {
+    "NAME": "Viiltohaava",
+    "DESCRIPTIONS": [
+      "Vuoronsa alussa, jos #yViiltohaava on yhtäsuuri tai suurempi kuin sen OP, #rkuolee."
+    ]
+  },
+  "${modID}:Oiled": {
+    "NAME": "Öljytty",
+    "DESCRIPTIONS": [
+      "Vihollinen vastaanottaa #b50% enemmän vauriota #ySytytyksestä tällä vuorolla.",
+      "Seuraavat #b",
+      " vuoroa, vihollinen vastaanottaa #b50% enemmän vauriota #ySytytyksestä."
+    ]
+  },
+  "${modID}:Rattled": {
+    "NAME": "Järkyttynyt",
+    "DESCRIPTIONS": [
+      "Kun hyökättynä, nosta #b1 kortti."
+    ]
+  },
+  "${modID}:RushOfBlood": {
+    "NAME": "Verenpurkaus",
+    "DESCRIPTIONS": [
+      "Kun menetät #yKuria, lisää #b",
+      " #yViiltohaavaa KAIKILLE vihollisille."
+    ]
+  },
+  "${modID}:Composed": {
+    "NAME": "Maltillinen",
+    "DESCRIPTIONS": [
+      "Vuorosi alussa, saa #b",
+      " #yKuria."
+    ]
+  },
+  "${modID}:Tenacity": {
+    "NAME": "Sisu",
+    "DESCRIPTIONS": [
+      "Kun #yHoltittomuus nostaa kortin hintaa, saa #b",
+      " #ySuojaa."
+    ]
+  },
+  "${modID}:Unravel": {
+    "NAME": "Vankka Ote",
+    "DESCRIPTIONS": [
+      "Seuraava #yHoltiton kortti pelataan kahdesti tällä vuorolla.",
+      "Seuraavat #b",
+      " #yHoltitonta korttia pelataan kahdesti tällä vuorolla."
+    ]
+  }
+}

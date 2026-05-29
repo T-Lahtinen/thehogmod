@@ -1,0 +1,23 @@
+{
+  "${modID}:MolotovPotion": {
+    "NAME": "Molotov Potion",
+    "DESCRIPTIONS": [
+      "Add #b",
+      " #yMolotov #yCocktails to your hand. They cost #b0 until played."
+    ]
+  },
+  "${modID}:SpookyStuff": {
+    "NAME": "Spooky Stuff",
+    "DESCRIPTIONS": [
+      "Apply #b",
+      " #yFright."
+    ]
+  },
+  "${modID}:EfficiencyPotion": {
+    "NAME": "Hasty Concoction",
+    "DESCRIPTIONS": [
+      "Add random cards into your hand until your hand is full. #yScrap up to #b",
+      " cards."
+    ]
+  }
+}

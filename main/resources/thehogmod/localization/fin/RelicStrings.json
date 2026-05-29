@@ -1,0 +1,79 @@
+{
+  "${modID}:Bellows": {
+    "NAME": "Palkeet",
+    "FLAVOR": "Allekirjoituksesi on poltettuna kahvaan. Tämä on sinun kädenjälkeäsi.",
+    "DESCRIPTIONS": [
+      "Ensimmäisen kerran kun saat #y${modID}:Lämpöä vuorosi aikana, saa #b1 #y${modID}:Intensiteetti."
+    ]
+  },
+  "${modID}:Broom": {
+    "NAME": "Luuta",
+    "FLAVOR": "Auttaa sotkujen siivoamisessa.",
+    "DESCRIPTIONS": [
+      "Kun #y${modID}:Romutat kortin, saa #b2 lisää #y${modID}:Romupanssaria. NL #y${modID}:Romupanssari tekee #b50% vähemmän vauriota."
+    ]
+  },
+  "${modID}:ButcherKnife": {
+    "NAME": "Lihaveitsi",
+    "FLAVOR": "Täydellinen leikkaamaan mitä tahansa lihaa.",
+    "DESCRIPTIONS": [
+      "Kun lisäät #y${modID}:Viiltohaavaa, anna #b1 enemmän kuin normaalisti."
+    ]
+  },
+  "${modID}:DeadlyRose": {
+    "NAME": "Kuolon Ruusu",
+    "FLAVOR": "Sen piikit pistävät.",
+    "DESCRIPTIONS": [
+      "Joka #b5 kerta kun lisäät vaivan viholliselle, nosta #b1 kortti."
+    ]
+  },
+  "${modID}:LargeAcorn": {
+    "NAME": "Suuri Tammenterho",
+    "FLAVOR": "Se on massiivinen!",
+    "DESCRIPTIONS": [
+      "Ensimmäisen kerran kun aktivoit #y${modID}:Holtittomuuden vuorosi aikana, saa [E] ."
+    ]
+  },
+  "${modID}:Manifesto": {
+    "NAME": "Manifesti",
+    "FLAVOR": "Kerran tehty lupaus...",
+    "DESCRIPTIONS": [
+      "Aloita jokainen taistelu #b5 #yRomupanssarilla."
+    ]
+  },
+  "${modID}:Matchbox": {
+    "NAME": "Tulitikut",
+    "FLAVOR": "Reunat ovat kärjistyneet, kuluneet käyttökelvottomiksi.",
+    "DESCRIPTIONS": [
+      "Kun #y${modID}:Sytytät, saa #b3 #ySuojaa."
+    ]
+  },
+  "${modID}:Metronome": {
+    "NAME": "Metronomi",
+    "FLAVOR": "Sen ääni ajaisi kenet tahansa hulluksi.",
+    "DESCRIPTIONS": [
+      "Saa #b2 lisää #ySuojaa #y${modID}:Pelosta."
+    ]
+  },
+  "${modID}:RedFlag": {
+    "NAME": "Punainen Lippu",
+    "FLAVOR": "Se oli ennen valkoinen.",
+    "DESCRIPTIONS": [
+      "Kun lisäät #y${modID}:Holtittoman kortin pakkaasi, saa #b3 MaksimiOP:tä."
+    ]
+  },
+  "${modID}:TornManifesto": {
+    "NAME": "Revitty Manifesti",
+    "FLAVOR": "Ikuisesti rikottu lupaus.",
+    "DESCRIPTIONS": [
+      "Korvaa [#ff69b4]Manifestin. #y${modID}:Romupanssari tekee vauriota KAIKILLE vihollisille. Vuorosi alussa, saa #b3 #y${modID}:Romupanssaria."
+    ]
+  },
+  "${modID}:Whip": {
+    "NAME": "Whip",
+    "FLAVOR": "Aikoinaan sortajasi, nyt se antaa sinulle voimaa.",
+    "DESCRIPTIONS": [
+      "Kun lisäät haitan viholliselle, he ottavat #b3 vauriota."
+    ]
+  }
+}

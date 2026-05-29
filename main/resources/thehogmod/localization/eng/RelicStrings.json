@@ -1,0 +1,79 @@
+{
+  "${modID}:Bellows": {
+    "NAME": "Bellows",
+    "FLAVOR": "Your signature is branded into the handle. You made this one yourself.",
+    "DESCRIPTIONS": [
+      "The first time you gain #y${modID}:Heat each turn, gain #b1 #y${modID}:Intensity."
+    ]
+  },
+  "${modID}:Broom": {
+    "NAME": "Broom",
+    "FLAVOR": "Helps to clean up any mess you make.",
+    "DESCRIPTIONS": [
+      "Whenever you #y${modID}:Scrap a card, gain #b2 additional #y${modID}:Scrap_Armor. NL #y${modID}:Scrap_Armor deals #b50% less damage."
+    ]
+  },
+  "${modID}:ButcherKnife": {
+    "NAME": "Butcher Knife",
+    "FLAVOR": "Perfect for cutting meat and flesh.",
+    "DESCRIPTIONS": [
+      "Whenever you apply #y${modID}:Laceration, apply an additional #b1 #y${modID}:Laceration."
+    ]
+  },
+  "${modID}:DeadlyRose": {
+    "NAME": "Deadly Rose",
+    "FLAVOR": "It stings.",
+    "DESCRIPTIONS": [
+      "Every #b5 times you apply a debuff to an enemy, draw #b1 card."
+    ]
+  },
+  "${modID}:LargeAcorn": {
+    "NAME": "Large Acorn",
+    "FLAVOR": "It's Humongous!",
+    "DESCRIPTIONS": [
+      "The first time you trigger #y${modID}:Reckless each turn, gain [E] ."
+    ]
+  },
+  "${modID}:Manifesto": {
+    "NAME": "Manifesto",
+    "FLAVOR": "A promise once made...",
+    "DESCRIPTIONS": [
+      "Start each combat with #b5 #yScrap #yArmor."
+    ]
+  },
+  "${modID}:Matchbox": {
+    "NAME": "Matchbox",
+    "FLAVOR": "The edges are scorched, worn thin by habit.",
+    "DESCRIPTIONS": [
+      "Whenever you #y${modID}:Ignite, gain #b3 #yBlock."
+    ]
+  },
+  "${modID}:Metronome": {
+    "NAME": "Metronome",
+    "FLAVOR": "That sound would drive anyone insane.",
+    "DESCRIPTIONS": [
+      "Gain #b2 additional #yBlock from #y${modID}:Fright."
+    ]
+  },
+  "${modID}:RedFlag": {
+    "NAME": "Red Flag",
+    "FLAVOR": "It used to be white.",
+    "DESCRIPTIONS": [
+      "Whenever you add a #y${modID}:Reckless card to your deck, raise your Max HP by #b3."
+    ]
+  },
+  "${modID}:TornManifesto": {
+    "NAME": "Torn Manifesto",
+    "FLAVOR": "A promise forever broken.",
+    "DESCRIPTIONS": [
+      "Replaces [#ff69b4]Manifesto. #y${modID}:Scrap_Armor deals damage to ALL enemies. At the start of your turn, gain #b3 #y${modID}:Scrap_Armor."
+    ]
+  },
+  "${modID}:Whip": {
+    "NAME": "Whip",
+    "FLAVOR": "Once your oppressor — now it empowers you.",
+    "DESCRIPTIONS": [
+      "Whenever you apply a debuff to an enemy, they take #b3 damage."
+    ]
+  }
+}

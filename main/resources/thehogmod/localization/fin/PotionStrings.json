@@ -1,0 +1,23 @@
+{
+  "${modID}:MolotovPotion": {
+    "NAME": "Molotovjuoma",
+    "DESCRIPTIONS": [
+      "Lisää #b",
+      " #yMolotov #yCocktailia käteesi. Niiden hinta on #b0 käyttöön saakka."
+    ]
+  },
+  "${modID}:SpookyStuff": {
+    "NAME": "Pelottavaa Ainetta",
+    "DESCRIPTIONS": [
+      "Lisää #b",
+      " #yPelkoa."
+    ]
+  },
+  "${modID}:EfficiencyPotion": {
+    "NAME": "Hätäinen Sekoitus",
+    "DESCRIPTIONS": [
+      "Lisää satunnaisia kortteja käteesi kunnes kätesi on täynnä. #yRomuta enintään #b",
+      " korttia."
+    ]
+  }
+}

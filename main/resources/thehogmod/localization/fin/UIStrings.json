@@ -1,0 +1,27 @@
+{
+  "${modID}:LacerationStartOfTurnAction": {
+    "TEXT": [
+      "KUOLLUT"
+    ]
+  },
+  "${modID}:ScrapAction": {
+    "TEXT": [
+      "romutettavaksi"
+    ]
+  },
+  "IgniteCardFromExhaustToHandAction": {
+    "TEXT": [
+      "palautettavaksi käteesi."
+    ]
+  },
+  "${modID}:ScrapTopCardAction": {
+    "TEXT": [
+      "Valitse kortti romutettavaksi."
+    ]
+  },
+  "${modID}:RecklessAction": {
+    "TEXT": [
+      "Aseta hinnaksi 0 tällä vuorolla"
+    ]
+  }
+}
