@@ -99,7 +99,7 @@
   },
   "${modID}:Explosives": {
     "NAME": "Räjähteet",
-    "DESCRIPTION": "Saa ${modID}:Lämpöä kunnes sinulla on 6 ${modID}:Lämpöä. NL Lisää !M! *Ruutipommia käteesi."
+    "DESCRIPTION": "Saa ${modID}:Lämpöä kunnes sinulla on !M! ${modID}:Lämpöä. NL Lisää 2 *Ruutipommia käteesi."
   },
   "${modID}:Expose": {
     "NAME": "Saata alttiiksi",
@@ -321,8 +321,7 @@
   },
   "${modID}:Unwavering": {
     "NAME": "Järkkymätön",
-    "DESCRIPTION": "Nosta !${modID}:e! korttia. NL Jos ${modID}:Holtittomuus muuttaa tämän kortin hintaa, saa [E] ja poista se.",
-    "UPGRADE_DESCRIPTION": "Nosta !${modID}:e! korttia. NL Jos ${modID}:Holtittomuus muuttaa tämän kortin hintaa, saa [E] [E] ja poista se."
+    "DESCRIPTION": "Nosta !${modID}:e! korttia. NL Jos ${modID}:Holtittomuus muuttaa tämän kortin hintaa, saa [E] ja poista se."
   },
   "${modID}:Unyielding": {
     "NAME": "Peräänantamaton",
