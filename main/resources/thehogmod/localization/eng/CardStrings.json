@@ -320,8 +320,7 @@
   },
   "${modID}:Unwavering": {
     "NAME": "Unwavering",
-    "DESCRIPTION": "Draw !${modID}:e! cards. NL If ${modID}:Reckless changes this card's cost, gain [E] and discard it.",
-    "UPGRADE_DESCRIPTION": "Draw !${modID}:e! cards. NL If ${modID}:Reckless changes this card's cost, NL gain [E] [E] and NL discard it."
+    "DESCRIPTION": "Draw !${modID}:e! cards. NL If ${modID}:Reckless changes this card's cost, gain [E] and discard it."
   },
   "${modID}:Unyielding": {
     "NAME": "Unyielding",
