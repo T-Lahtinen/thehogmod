@@ -98,7 +98,7 @@
   },
   "${modID}:Explosives": {
     "NAME": "Explosives",
-    "DESCRIPTION": "Gain ${modID}:Heat until you have 6 ${modID}:Heat. NL Add !M! *Flash *Powders into your hand."
+    "DESCRIPTION": "Gain ${modID}:Heat until you have !M! ${modID}:Heat. NL Add 2 *Flash *Powders into your hand."
   },
   "${modID}:Expose": {
     "NAME": "Expose",
@@ -202,7 +202,7 @@
     "DESCRIPTION": "Apply !M! ${modID}:Oiled and Vulnerable to ALL enemies. NL Exhaust."
   },
   "${modID}:Onslaught": {
-    "NAME": "Onslaught",
+    "NAME": "Overwhelm",
     "DESCRIPTION": "Deal !D! damage. NL Apply !M! ${modID}:Fright to ALL enemies."
   },
   "${modID}:Outrage": {
