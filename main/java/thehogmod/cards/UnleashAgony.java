@@ -31,6 +31,7 @@ public class UnleashAgony extends BaseCard {
         super(ID, info);
 
         setDamage(10, 3);
+        isMultiDamage = true;
         cardsToPreview = new VoidCard();
     }
 

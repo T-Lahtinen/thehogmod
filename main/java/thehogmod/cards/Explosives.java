@@ -21,15 +21,16 @@ public class Explosives extends BaseCard {
     public Explosives() {
         super(ID, info);
 
-        setMagic(2, 1);
+        setMagic(5);
+        setCostUpgrade(0);
 
         cardsToPreview = new FlashPowder();
     }
 
     @Override
     public void use(AbstractPlayer p, AbstractMonster m) {
-        addToBot(new GainHeatToLimitAction(p, 6));
-        addToBot(new MakeTempCardInHandAction(new FlashPowder(), magicNumber));
+        addToBot(new GainHeatToLimitAction(p, magicNumber));
+        addToBot(new MakeTempCardInHandAction(new FlashPowder(), 2));
     }
 
     @Override

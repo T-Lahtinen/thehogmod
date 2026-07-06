@@ -25,6 +25,7 @@ public class Impale extends BaseCard {
     public Impale() {
         super(ID, info);
 
+        isMultiDamage = true;
         setDamage(4, 2);
         setMagic(2, 1);
     }

@@ -30,7 +30,6 @@ public class Hemorrhage extends BaseCard {
     public void use(AbstractPlayer p, AbstractMonster m) {
         addToBot(new ApplyPowerAction(m, p, new LacerationPower(m, magicNumber), magicNumber));
         addToBot(new HemorrhageAction(m));
-        // addToBot(new ApplyPowerAction(m, p, new HemorrhagePower(m, 1), 1));
     }
 
     @Override

@@ -20,8 +20,8 @@ public class Unwavering extends BaseCard {
     public Unwavering() {
         super(ID, info);
 
-        setCustomVar("e", 2, 1);
-        setMagic(1, 1);
+        setCustomVar("e", 3, 1);
+        setMagic(1);
     }
 
     @Override
